@@ -45,3 +45,25 @@ When we enter npm install...
 
 10. List 3 of JS's _primitive data types._
 Numbers, Strings, and Arrays. 
+
+## Answers
+
+1. A VCS that provides benefits such as ‘code backups’ when ‘push’ing too GitHub.com, collaborative work, etc. 
+
+2. Bash - a program installed in most terminal emulators that gives us commands to work with our computer and file system. 
+           “A program that allows us to use commands."
+
+3. CD
+
+4. Automates the process of finding and fixing bugs. 
+
+5. This is something like the ‘grammar’ of the code.
+
+6. Linter - making it look pretty, and finding errors within code. Automates the process of finding and fixing bugs.
+
+7. NPM - Node Package Manager. In conduction with npmjs.com, we can leverage other code modules to assist with working on our projects. 
+
+8. JSON - JavaScript Object Notation. Notation resembles objects. A way to transfer chunks of data into any program. 
+
+9. By checking ‘package.json’ ‘dependencies’ or ‘devDependencies’ 
+10. Booleans, Numbers, Strings.
