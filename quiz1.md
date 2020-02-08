@@ -11,21 +11,37 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 ## Questions
 
 1. What is `git`❓
+Git is a version control system that tracks different stages of code/commands within the terminal emulator. 
+
 
 2. What is `bash`❓
 
+
+
 3. What is the shortest _command_ to navigate back to the 'home' directory❓
+cd.
+
 
 4. What's a *linter*❓What is it good for?
 
+
+
 5. What might an `SyntaxError` mean?
+A 'SyntaxError' can mean that an area of code is not written completely, and or that there is something written wrong within a line(s) of code. 
+
 
 6. What ES6 keywords do we use to _declare variables?_
+var was used before, but let is now one of the current way to declare variables. You can also use const to declare a variable as well.  
+
 
 7. What is `npm`❓How does it help us?
+Node Product Manager? 
 
 8. What does JSON stand for?
+Java. Script. Object. Notation.
 
 9. What happens when we enter `npm install`?
+When we enter npm install... 
 
 10. List 3 of JS's _primitive data types._
+Numbers, Strings, and Arrays. 
